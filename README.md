@@ -26,7 +26,7 @@ I'm hosting some interesting services on my own server (a Raspberry Pi 5) under 
 
 All these services are open to **friends**, for **free**. If you want access to the existing services or even want something new, just let me know.
 
-| ![GitHub stats](https://github-readme-status.steve235lab.ca/api?username=Steve235lab&show_icons=true&theme=ambient_gradient) | [![GitHub Streak](https://streak-stats.steve235lab.ca/?user=Steve235lab&theme=rose-pine&hide_border=true&mode=weekly&background=FFFFFF&sideNums=F5A9B8&currStreakNum=F5A9B8&ring=5BCEFA&fire=F5A9B8&dates=F5A9B8&sideLabels=5BCEFA&currStreakLabel=5BCEFA)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-status.steve235lab.ca/api?username=stellarfeline&show_icons=true&theme=ambient_gradient) | [![GitHub Streak](https://streak-stats.steve235lab.ca/?user=stellarfeline&theme=rose-pine&hide_border=true&mode=weekly&background=FFFFFF&sideNums=F5A9B8&currStreakNum=F5A9B8&ring=5BCEFA&fire=F5A9B8&dates=F5A9B8&sideLabels=5BCEFA&currStreakLabel=5BCEFA)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ---
