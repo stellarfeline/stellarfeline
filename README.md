@@ -1,4 +1,4 @@
-![Header Image](https://r2-public.steve235lab.ca/rareview_5_s.jpeg)
+![Header Image](https://r2-public.stellarfeline.ca/rareview_5_s.jpeg)
 
 ## About Me
 
@@ -12,21 +12,21 @@ Experienced with Python, Rust, PHP, Java, C/C++ and all other tech stacks to dev
 
 ## Recent Works
 
-You can find my recent works (course assignments, reports, etc.) [here](https://nextcloud.steve235lab.ca/s/eB8micymj8SQPkj).
+You can find my recent works (course assignments, reports, etc.) [here](https://nextcloud.stellarfeline.ca/s/eB8micymj8SQPkj).
 
 ## My Services
 
-I'm hosting some interesting services on my own server (a Raspberry Pi 5) under my domain **steve235lab.ca**:
+I'm hosting some interesting services on my own server (a Raspberry Pi 5) under my domain **stellarfeline.ca**:
 
-- [LobeChat](https://lobechat.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/1/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/1/avg-response) A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
-- [NextCloud](https://nextcloud.steve235lab.ca/) ![status](https://uptime-kuma.steve235lab.ca/api/badge/2/status) ![avg-response](https://uptime-kuma.steve235lab.ca/api/badge/2/avg-response) A self-hosted open-source cloud drive.
-- [Jellyfin](https://jellyfin.steve235lab.ca) ![status](https://uptime-kuma.steve235lab.ca/api/badge/10/status) ![avg-respons](https://uptime-kuma.steve235lab.ca/api/badge/10/avg-response) The Free Software Media System.
-- [Stirling-PDF](https://stirling-pdf.steve235lab.ca) ![status](https://uptime-kuma.steve235lab.ca/api/badge/17/status) ![avg-respons](https://uptime-kuma.steve235lab.ca/api/badge/17/avg-response) The Open-Source PDF Platform.
-- Check status of all public services on [uptime-kuma](https://uptime-kuma.steve235lab.ca/status/steve235lab-ca).
+- [LobeChat](https://lobechat.stellarfeline.ca/) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/1/status) ![avg-response](https://uptime-kuma.stellarfeline.ca/api/badge/1/avg-response) A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
+- [NextCloud](https://nextcloud.stellarfeline.ca/) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/2/status) ![avg-response](https://uptime-kuma.stellarfeline.ca/api/badge/2/avg-response) A self-hosted open-source cloud drive.
+- [Jellyfin](https://jellyfin.stellarfeline.ca) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/10/status) ![avg-respons](https://uptime-kuma.stellarfeline.ca/api/badge/10/avg-response) The Free Software Media System.
+- [Stirling-PDF](https://stirling-pdf.stellarfeline.ca) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/17/status) ![avg-respons](https://uptime-kuma.stellarfeline.ca/api/badge/17/avg-response) The Open-Source PDF Platform.
+- Check status of all public services on [uptime-kuma](https://uptime-kuma.stellarfeline.ca/status/steve235lab-ca).
 
 All these services are open to **friends**, for **free**. If you want access to the existing services or even want something new, just let me know.
 
-| ![GitHub stats](https://github-readme-status.steve235lab.ca/api?username=stellarfeline&show_icons=true&theme=ambient_gradient) | [![GitHub Streak](https://streak-stats.steve235lab.ca/?user=stellarfeline&theme=rose-pine&hide_border=true&mode=weekly&background=FFFFFF&sideNums=F5A9B8&currStreakNum=F5A9B8&ring=5BCEFA&fire=F5A9B8&dates=F5A9B8&sideLabels=5BCEFA&currStreakLabel=5BCEFA)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-status.stellarfeline.ca/api?username=stellarfeline&show_icons=true&theme=ambient_gradient) | [![GitHub Streak](https://streak-stats.stellarfeline.ca/?user=stellarfeline&theme=rose-pine&hide_border=true&mode=weekly&background=FFFFFF&sideNums=F5A9B8&currStreakNum=F5A9B8&ring=5BCEFA&fire=F5A9B8&dates=F5A9B8&sideLabels=5BCEFA&currStreakLabel=5BCEFA)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ---
