@@ -31,6 +31,6 @@ All these services are open to **friends**, for **free**. If you want access to 
 
 ---
 
-Send an email to me: steve235lab@hotmail.com
+Send an email to me: stella235lab@gmail.com
 
 > *Want to send me an encrypted email or verify my commits? Get my GPG key [here](https://keys.openpgp.org/search?q=steve235lab%40hotmail.com).*
