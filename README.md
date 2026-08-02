@@ -33,4 +33,4 @@ All these services are open to **friends**, for **free**. If you want access to 
 
 Send an email to me: i@stellarfeline.ca
 
-> *Want to send me an encrypted email or verify my commits? Get my GPG key [here](https://keys.openpgp.org/search?q=steve235lab%40hotmail.com).*
+> *Want to send me an encrypted email or verify my commits? Get my GPG key [here](https://keys.openpgp.org/search?q=i@stellarfeline.ca).*
