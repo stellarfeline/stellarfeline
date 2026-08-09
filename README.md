@@ -18,10 +18,10 @@ You can find my recent works (course assignments, reports, etc.) [here](https://
 
 I'm hosting some interesting services on my own server (a Raspberry Pi 5) under my domain **stellarfeline.ca**:
 
-- [LobeChat](https://lobechat.stellarfeline.ca/) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/1/status) ![avg-response](https://uptime-kuma.stellarfeline.ca/api/badge/1/avg-response) A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
-- [NextCloud](https://nextcloud.stellarfeline.ca/) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/2/status) ![avg-response](https://uptime-kuma.stellarfeline.ca/api/badge/2/avg-response) A self-hosted open-source cloud drive.
-- [Jellyfin](https://jellyfin.stellarfeline.ca) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/10/status) ![avg-respons](https://uptime-kuma.stellarfeline.ca/api/badge/10/avg-response) The Free Software Media System.
-- [Stirling-PDF](https://stirling-pdf.stellarfeline.ca) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/17/status) ![avg-respons](https://uptime-kuma.stellarfeline.ca/api/badge/17/avg-response) The Open-Source PDF Platform.
+- [LobeChat](https://lobechat.stellarfeline.ca/) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/1/status) A self-hosted open-source LLM chat bot service with API access to OpenAI GPT, Anthropic Claude models, and DeepSeek R1.
+- [NextCloud](https://nextcloud.stellarfeline.ca/) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/2/status) A self-hosted open-source cloud drive.
+- [Jellyfin](https://jellyfin.stellarfeline.ca) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/10/status) The Free Software Media System.
+- [Stirling-PDF](https://stirling-pdf.stellarfeline.ca) ![status](https://uptime-kuma.stellarfeline.ca/api/badge/17/status) The Open-Source PDF Platform.
 - Check status of all public services on [uptime-kuma](https://uptime-kuma.stellarfeline.ca/status/steve235lab-ca).
 
 All these services are open to **friends**, for **free**. If you want access to the existing services or even want something new, just let me know.
